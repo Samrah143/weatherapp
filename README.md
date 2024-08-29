@@ -9,13 +9,11 @@
 - **Location Search**: Search for weather information by location.
 - **Weather Alerts**: Receive notifications about severe weather conditions.
 
-### Screenshots
+### Objectives
 
-![Screenshot 1](screenshots/screenshot 1.png)
-![Screenshot 2](screenshots/screenshot 2.png)
-![Screenshot 3](screenshots/screenshot 3.png)
+- View the current weather for your location.
+- See the weather forecast for the upcoming days.
+- Search for weather information by location.
+- Receive notifications about severe weather conditions.
 
-### Screen Recordings
-
-- [Recording 1](recordings/recording1.mp4)
 
